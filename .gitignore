@@ -1,0 +1,5 @@
+sk-0451e78089d741a891c2750ae566dbf5
+openclaw agent --agent main --message
+node tamu-shim.mjs
+openclaw audit --agent main --kind tool_action --limit 1 --json
+./HW1/bin/safe_marker.sh course-marker
