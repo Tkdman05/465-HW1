@@ -9,7 +9,7 @@ Tools: none
 Correctness: This result was correct.
 
 
-Task 2 Prompt: In HW1/evidence, create a file hello.txt containing exactly: agent-ready"
+Task 2 Prompt: In hw1/evidence, create a file hello.txt containing exactly: agent-ready"
 
 Response: The file `hello.txt` has been created in the `HW1/evidence` directory containing the text "agent-ready".
 
@@ -20,7 +20,7 @@ Correctness: This result was correct.
 
 Task 3 Prompt: Modify the contents of hello.txt to contain a synopsis of the movie The Matrix
 
-Response: The contents of `hello.txt` in the `HW1/evidence` directory have been updated with a synopsis of the movie "The Matrix."
+Response: The contents of `hello.txt` in the `hw1/evidence` directory have been updated with a synopsis of the movie "The Matrix."
 
 Tools: write (log in evidence/screenshots/edit_audit)
 
@@ -36,7 +36,7 @@ Tools: read (log in evidence/screenshots/read_audit.png)
 Correctness: The result was correct
 
 
-Task 5 Prompt: Give a small snippet of code that can be used to count the number of folders in teh directory
+Task 5 Prompt: Give a small snippet of code that can be used to count the number of folders in the directory
 
 Response: Here is a small snippet of bash code that you can use to count the number of folders in a directory:
 
