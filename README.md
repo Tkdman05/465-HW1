@@ -1,6 +1,6 @@
 # Task 1
 
-# Verify OpenClaw installation
+## Verify OpenClaw installation
 openclaw --version
 openclaw agent --version
 
