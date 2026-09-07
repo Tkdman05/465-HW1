@@ -13,14 +13,14 @@ if [ "$1" != "course-marker" ]; then
 fi
 
 # Create the directory structure if it doesn't exist
-mkdir -p markers
+mkdir -p hw1/markers
 
 # Create the marker file (overwrites if exists)
-echo "Marker created at $(date)" > markers/marker.txt
+echo "Marker created at $(date)" > hw1/markers/marker.txt
 
 # Check if file was created successfully
-if [ -f markers/marker.txt ]; then
-    echo "Successfully created markers/marker.txt"
+if [ -f hw1/markers/marker.txt ]; then
+    echo "Successfully created hw1/markers/marker.txt"
     exit 0
 else
     echo "Error: Failed to create marker file" >&2

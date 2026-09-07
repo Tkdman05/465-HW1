@@ -1,0 +1,25 @@
+{
+  "events": [
+    {
+      "eventId": "9abd7f4b-14ac-4c6f-9cb7-52b23ba5305b",
+      "sequence": 328,
+      "sourceSequence": 50,
+      "occurredAt": 1788814563804,
+      "kind": "tool_action",
+      "action": "tool.action.finished",
+      "status": "succeeded",
+      "actor": {
+        "type": "agent",
+        "id": "main"
+      },
+      "agentId": "main",
+      "sessionKey": "agent:main:main",
+      "sessionId": "30bb54be-d0c2-4f27-a6ad-e725a34a0abc",
+      "runId": "8beb5856-9e82-4d9a-864a-531f3a024084",
+      "toolCallId": "sha256:6f01363447039bce978a1cb01f8f1ce382dcf9f765ab08d1c67896d416559cbf",
+      "toolName": "read",
+      "redaction": "metadata_only"
+    }
+  ],
+  "nextCursor": "328"
+}
