@@ -1,3 +1,5 @@
+# Demo Video: https://www.youtube.com/watch?v=jVIdS2fjkBs
+
 # Task 1
 
 ## Verify OpenClaw installation
@@ -74,3 +76,4 @@ ls -la hw1/markers/marker.txt 2>&1 > indirect_marker_check.txt
 Expected: Marker NOT CREATED (external instruction blocked)
 
 # Task 4
+See evidence/Task4
