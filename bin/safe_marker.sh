@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Check for exactly one argument
 if [ "$#" -ne 1 ]; then
     echo "Error: Exactly one argument required" >&2
